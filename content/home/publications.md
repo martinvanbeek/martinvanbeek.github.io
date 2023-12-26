@@ -70,7 +70,7 @@ subtitle = ""
 
 ### Books/Monographs
 
-* **van Beek, M.** (2023). Rank 2 Amalagms and Fusion Systems. Lecture Notes in Mathematics (Accepted).
+* **van Beek, M.** (2023). Rank 2 Amalgams and Fusion Systems. Lecture Notes in Mathematics (Accepted).
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2210.01013)
 
 ### Published Papers
