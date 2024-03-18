@@ -68,4 +68,18 @@ subtitle = ""
  css_class = ""
 +++ 
 
-Starting February 2024, I will be teaching a short postgraduate course titled "Topics in Finite $p$-groups." The notes and problem sheets should appear here whenever the course finishes.
+In February 2024, I taught a short postgraduate course titled "Topics in Finite $p$-groups." Here are the notes and problem sheets:
+
+#### {{< staticref "uploads/LectureNotes.pdf" "newtab" >}}Lecture Notes{{< /staticref >}}
+
+#### {{< staticref "uploads/PS1.pdf" "newtab" >}}Problem Sheet 1{{< /staticref >}}
+
+#### {{< staticref "uploads/PS2.pdf" "newtab" >}}Problem Sheet 2{{< /staticref >}}
+
+#### {{< staticref "uploads/PS3.pdf" "newtab" >}}Problem Sheet 3{{< /staticref >}}
+
+#### {{< staticref "uploads/PS4.pdf" "newtab" >}}Problem Sheet 4{{< /staticref >}}
+
+Any suggestions or corrections would be greatly appreciated!
+
+
