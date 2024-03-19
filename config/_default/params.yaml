@@ -21,8 +21,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: ''
+    org_name: 'Martin van Beek'
+    description: 'I am a Heilbronn Research Fellow at the University of Manchester. Broadly, I study group theory.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
