@@ -79,6 +79,8 @@ subtitle = ""
 
 ### Submitted Papers
 
+* **van Beek, M.** (2024). Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups. Submitted.
+[<img src="img/arxiv.png">](https://arxiv.org/abs/2409.18870)
 
 * **van Beek, M.** (2023). Saturated Fusion Systems on Sylow $p$-subgroups of Rank $2$ Simple Groups of Lie Type. Submitted.
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2302.02222)
