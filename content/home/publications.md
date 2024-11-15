@@ -75,15 +75,15 @@ subtitle = ""
 
 ### Published Papers
 
+* **van Beek, M.** (2024). [Saturated Fusion Systems on Sylow $p$-subgroups of Rank $2$ Simple Groups of Lie Type](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/fusion-systems-and-rank-2-simple-groups-of-lie-type/AEF03F8DF74D645CA367155D0E2A1D30). Forum of Mathematics, Sigma.
+[<img src="img/arxiv.png">](https://arxiv.org/abs/2302.02222)
+
 * **van Beek, M.** (2023). [Fusion Systems on a Sylow $p$-subgroup of $G_2(p^n)$ or $PSU_4(p^n)$](https://www.sciencedirect.com/science/article/pii/S0021869322004537). Journal of Algebra. [<img src="img/arxiv.png">](https://arxiv.org/abs/2108.11691)
 
 ### Submitted Papers
 
 * **van Beek, M.** (2024). Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups. Submitted.
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2409.18870)
-
-* **van Beek, M.** (2023). Saturated Fusion Systems on Sylow $p$-subgroups of Rank $2$ Simple Groups of Lie Type. Submitted.
-[<img src="img/arxiv.png">](https://arxiv.org/abs/2302.02222)
 
 * **van Beek, M.** (2022). Exotic Fusion Systems Related to Sporadic Simple Groups. Submitted.
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2201.01790)
