@@ -82,8 +82,9 @@ subtitle = ""
 
 ### Submitted Papers
 
-* **van Beek, M.** (2024). Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups. Submitted.
-[<img src="img/arxiv.png">](https://arxiv.org/abs/2409.18870)
+* **van Beek, M.** (2024). Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups.[<img src="img/arxiv.png">](https://arxiv.org/abs/2409.18870)
 
-* **van Beek, M.** (2022). Exotic Fusion Systems Related to Sporadic Simple Groups. Submitted.
-[<img src="img/arxiv.png">](https://arxiv.org/abs/2201.01790)
+* Parker, C. & **van Beek, M.** (2024). Lifting Polynomial Representations of $\mathrm{SL}_2(p^r)$ from $\mathbb{F}_p$ to $\mathbb{Z}/p^s\mathbb{Z}$. 
+[<img src="img/arxiv.png">](https://arxiv.org/abs/2411.16379)
+
+* **van Beek, M.** (2022). Exotic Fusion Systems Related to Sporadic Simple Groups.[<img src="img/arxiv.png">](https://arxiv.org/abs/2201.01790)
