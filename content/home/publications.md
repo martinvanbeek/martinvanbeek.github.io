@@ -70,21 +70,23 @@ subtitle = ""
 
 ### Books/Monographs
 
-* **van Beek, M.** (2024). [Rank 2 Amalgams and Fusion Systems](https://link.springer.com/book/9783031544606). Lecture Notes in Mathematics.
+* **van Beek, M.** [Rank 2 Amalgams and Fusion Systems](https://link.springer.com/book/9783031544606). Lecture Notes in Mathematics. (2024).
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2210.01013)
 
 ### Published Papers
 
-* **van Beek, M.** (2024). [Saturated Fusion Systems on Sylow $p$-subgroups of Rank $2$ Simple Groups of Lie Type](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/fusion-systems-and-rank-2-simple-groups-of-lie-type/AEF03F8DF74D645CA367155D0E2A1D30). Forum of Mathematics, Sigma.
+* **van Beek, M.** [Saturated Fusion Systems on Sylow $p$-subgroups of Rank $2$ Simple Groups of Lie Type](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/fusion-systems-and-rank-2-simple-groups-of-lie-type/AEF03F8DF74D645CA367155D0E2A1D30). Forum of Mathematics, Sigma. (2024).
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2302.02222)
 
-* **van Beek, M.** (2023). [Fusion Systems on a Sylow $p$-subgroup of $G_2(p^n)$ or $PSU_4(p^n)$](https://www.sciencedirect.com/science/article/pii/S0021869322004537). Journal of Algebra. [<img src="img/arxiv.png">](https://arxiv.org/abs/2108.11691)
+* **van Beek, M.** [Fusion Systems on a Sylow $p$-subgroup of $G_2(p^n)$ or $PSU_4(p^n)$](https://www.sciencedirect.com/science/article/pii/S0021869322004537). Journal of Algebra. (2023).[<img src="img/arxiv.png">](https://arxiv.org/abs/2108.11691)
 
 ### Submitted Papers
 
-* **van Beek, M.** (2024). Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups.[<img src="img/arxiv.png">](https://arxiv.org/abs/2409.18870)
+* Grazian, V. & Parker, C. & Semeraro, J & **van Beek, M.** Fusion systems related to polynomial representations of $\mathrm{SL}_2(q)$. (2025). 
+[<img src="img/arxiv.png">](https://arxiv.org/abs/2502.20873)
 
-* Parker, C. & **van Beek, M.** (2024). Lifting Polynomial Representations of $\mathrm{SL}_2(p^r)$ from $\mathbb{F}_p$ to $\mathbb{Z}/p^s\mathbb{Z}$. 
-[<img src="img/arxiv.png">](https://arxiv.org/abs/2411.16379)
+* Parker, C. & **van Beek, M.** Lifting Polynomial Representations of $\mathrm{SL}_2(p^r)$ from $\mathbb{F}_p$ to $\mathbb{Z}/p^s\mathbb{Z}$. (2024). [<img src="img/arxiv.png">](https://arxiv.org/abs/2411.16379)
 
-* **van Beek, M.** (2022). Exotic Fusion Systems Related to Sporadic Simple Groups.[<img src="img/arxiv.png">](https://arxiv.org/abs/2201.01790)
+* **van Beek, M.** Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups. (2024). [<img src="img/arxiv.png">](https://arxiv.org/abs/2409.18870)
+
+* **van Beek, M.**  Exotic Fusion Systems Related to Sporadic Simple Groups. (2022).[<img src="img/arxiv.png">](https://arxiv.org/abs/2201.01790)
