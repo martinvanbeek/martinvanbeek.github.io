@@ -82,7 +82,7 @@ subtitle = ""
 
 ### Submitted Papers
 
-* Grazian, V. & Parker, C. & Semeraro, J & **van Beek, M.** Fusion systems related to polynomial representations of $\mathrm{SL}_2(q)$. (2025). 
+* Grazian, V. & Parker, C. & Semeraro, J. & **van Beek, M.** Fusion systems related to polynomial representations of $\mathrm{SL}_2(q)$. (2025). 
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2502.20873)
 
 * Parker, C. & **van Beek, M.** Lifting Polynomial Representations of $\mathrm{SL}_2(p^r)$ from $\mathbb{F}_p$ to $\mathbb{Z}/p^s\mathbb{Z}$. (2024). [<img src="img/arxiv.png">](https://arxiv.org/abs/2411.16379)
