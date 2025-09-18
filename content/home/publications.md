@@ -84,6 +84,10 @@ subtitle = ""
 
 ### Submitted Papers
 
+* Camina, R.D. & Maróti, A. & Pacifici, E. & Parker, C. & Rekvényi, K. & Saunders, J. &  Sotomayor, V. & Tracey, G & **van Beek, M.** Groups with conjugacy classes of coprime sizes. (2025). 
+[<img src="img/arxiv.png">](https://arxiv.org/abs/2508.03851)
+
+
 * Grazian, V. & Parker, C. & Semeraro, J. & **van Beek, M.** Fusion systems related to polynomial representations of $\mathrm{SL}_2(q)$. (2025). 
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2502.20873)
 
