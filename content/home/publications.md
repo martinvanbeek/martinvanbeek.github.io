@@ -75,7 +75,11 @@ subtitle = ""
 
 ### Published Papers
 
-* **van Beek, M.**  [Exotic Fusion Systems Related to Sporadic Simple Groups](https://doi.org/10.1017/S030500412500009X). Mathematical Proceedings of the Cambridge Philosophical Society (2025).[<img src="img/arxiv.png">](https://arxiv.org/abs/2201.01790)
+* Grazian, V. & Parker, C. & Semeraro, J. & **van Beek, M.** [Fusion systems related to polynomial representations of $\mathrm{SL}_2(q)$](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70481). Journal of the LMS. (2026).[<img src="img/arxiv.png">](https://arxiv.org/abs/2502.20873)
+
+* Camina, R.D. & Maróti, A. & Pacifici, E. & Parker, C. & Rekvényi, K. & Saunders, J. &  Sotomayor, V. & Tracey, G & **van Beek, M.** [Groups with conjugacy classes of coprime sizes](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/blms.70320). Bulletin of the LMS.(2026).[<img src="img/arxiv.png">](https://arxiv.org/abs/2508.03851)
+
+* **van Beek, M.**  [Exotic Fusion Systems Related to Sporadic Simple Groups](https://doi.org/10.1017/S030500412500009X). Mathematical Proceedings of the Cambridge Philosophical Society. (2025).[<img src="img/arxiv.png">](https://arxiv.org/abs/2201.01790)
 
 * **van Beek, M.** [Saturated Fusion Systems on Sylow $p$-subgroups of Rank $2$ Simple Groups of Lie Type](https://doi.org/10.1017/fms.2024.94). Forum of Mathematics, Sigma. (2024).
 [<img src="img/arxiv.png">](https://arxiv.org/abs/2302.02222)
@@ -84,12 +88,6 @@ subtitle = ""
 
 ### Submitted Papers
 
-* Camina, R.D. & Maróti, A. & Pacifici, E. & Parker, C. & Rekvényi, K. & Saunders, J. &  Sotomayor, V. & Tracey, G & **van Beek, M.** Groups with conjugacy classes of coprime sizes. To appear in Bulletin of the LMS.(2025). 
-[<img src="img/arxiv.png">](https://arxiv.org/abs/2508.03851)
-
-
-* Grazian, V. & Parker, C. & Semeraro, J. & **van Beek, M.** Fusion systems related to polynomial representations of $\mathrm{SL}_2(q)$. To appear in Journal of the LMS. (2025). 
-[<img src="img/arxiv.png">](https://arxiv.org/abs/2502.20873)
 
 * Parker, C. & **van Beek, M.** Lifting Polynomial Representations of $\mathrm{SL}_2(p^r)$ from $\mathbb{F}_p$ to $\mathbb{Z}/p^s\mathbb{Z}$. To appear in Proceedings of the AMS. (2024). [<img src="img/arxiv.png">](https://arxiv.org/abs/2411.16379)
 
