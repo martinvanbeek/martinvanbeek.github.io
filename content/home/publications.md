@@ -75,6 +75,8 @@ subtitle = ""
 
 ### Published Papers
 
+* Parker, C. & **van Beek, M.** [Lifting Polynomial Representations of $\mathrm{SL}_2(p^r)$ from $\mathbb{F}_p$ to $\mathbb{Z}/p^s\mathbb{Z}$](https://doi.org/10.1090/proc/17599). Proceedings of the AMS. (2026). [<img src="img/arxiv.png">](https://arxiv.org/abs/2411.16379)
+
 * Grazian, V. & Parker, C. & Semeraro, J. & **van Beek, M.** [Fusion systems related to polynomial representations of $\mathrm{SL}_2(q)$](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70481). Journal of the LMS. (2026).[<img src="img/arxiv.png">](https://arxiv.org/abs/2502.20873)
 
 * Camina, R.D. & Maróti, A. & Pacifici, E. & Parker, C. & Rekvényi, K. & Saunders, J. &  Sotomayor, V. & Tracey, G & **van Beek, M.** [Groups with conjugacy classes of coprime sizes](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/blms.70320). Bulletin of the LMS.(2026).[<img src="img/arxiv.png">](https://arxiv.org/abs/2508.03851)
@@ -88,8 +90,6 @@ subtitle = ""
 
 ### Submitted Papers
 
-
-* Parker, C. & **van Beek, M.** Lifting Polynomial Representations of $\mathrm{SL}_2(p^r)$ from $\mathbb{F}_p$ to $\mathbb{Z}/p^s\mathbb{Z}$. To appear in Proceedings of the AMS. (2024). [<img src="img/arxiv.png">](https://arxiv.org/abs/2411.16379)
 
 * **van Beek, M.** Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups. (2024). [<img src="img/arxiv.png">](https://arxiv.org/abs/2409.18870)
 
