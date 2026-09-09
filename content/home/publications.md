@@ -90,6 +90,7 @@ subtitle = ""
 
 ### Submitted Papers
 
+* Grazian, V. & Lynd, J. & Parker, C. & Semeraro, J. & **van Beek, M.** Modules with few Jordan blocks for rank $1$ groups of Lie type and related groups. (2026). [<img src="img/arxiv.png">](https://arxiv.org/abs/2608.19791)
 
 * **van Beek, M.** Fusion Systems and Simple Groups With Class Two Sylow $p$-subgroups. (2024). [<img src="img/arxiv.png">](https://arxiv.org/abs/2409.18870)
 
